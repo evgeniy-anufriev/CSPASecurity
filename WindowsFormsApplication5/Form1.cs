@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.Odbc;
 
-namespace WindowsFormsApplication5
+namespace CSPASecurity
 {
     public partial class Form1 : Form
     {

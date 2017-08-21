@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication5
+﻿namespace CSPASecurity
 {
     partial class Form1
     {
